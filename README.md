@@ -22,3 +22,5 @@ So, if the app chose “Rock” and “Win” the player would need to choose �
 ![Alt text](https://github.com/zheensuseyi/RockPaperScissorsApp/blob/main/RPSappgif-ezgif.com-optimize.gif
 )
 
+![Alt text](https://github.com/zheensuseyi/RockPaperScissorsApp/blob/main/rpsappss1.png
+)

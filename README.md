@@ -19,8 +19,8 @@ The game ends after 10 questions, at which point their score is shown.
 So, if the app chose “Rock” and “Win” the player would need to choose “Paper”, but if the app chose “Rock” and “Lose” the player would need to choose “Scissors”.
 
 
-![Alt text](https://github.com/zheensuseyi/RockPaperScissorsApp/blob/main/RPSappgif-ezgif.com-optimize.gif
+![Alt text](https://github.com/zheensuseyi/Rock-Paper-Scissors-App/blob/main/RPSappgif-ezgif.com-optimize.gif
 )
 
-![Alt text](https://github.com/zheensuseyi/RockPaperScissorsApp/blob/main/rpsappss1.png
+![Alt text](https://github.com/zheensuseyi/Rock-Paper-Scissors-App/blob/main/rpsappss1.png
 )
